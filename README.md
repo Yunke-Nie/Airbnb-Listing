@@ -1,14 +1,15 @@
-# Self-Assessment Airbnb Listings
+#Airbnb Listings
 
 >Author: Yunke Nie
 >
 >Course Link: [https://johnguerra.co/classes/webDevelopment_fall_2023/](https://johnguerra.co/classes/webDevelopment_fall_2023/)
-> 
+>
+>Based on the demonstration code from the course 
 
 The website is deployed at [https://self-assess-1.web.app/listings.html](https://self-assess-1.web.app/listings.html) via Google Firebase.
 
 ## Basic Function
-Extract the first 50 listings from the JSON file and use client side rendering to present
+Extract the first 50 listings from the JSON file and use client-side rendering to present
 
 ## Extra Features
 1. **Search**: Search function; Search all the listings, whose name contains the keyword, and rerender the page.
