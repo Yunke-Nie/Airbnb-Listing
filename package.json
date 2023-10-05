@@ -10,5 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "firebase-tools": "^12.6.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3"
   }
 }
