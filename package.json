@@ -1,0 +1,14 @@
+{
+  "name": "self-assess-2",
+  "version": "1.0.0",
+  "description": "A website to practice webdev skills -- Simple JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yunke Nie",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-tools": "^12.6.2"
+  }
+}
